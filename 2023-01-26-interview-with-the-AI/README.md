@@ -19,8 +19,8 @@ Testo scritto usando Chat GPT. Un esempio si può trovare sotto
 
 ## Esempio di utilizzo
 
-[Data una serie di test generare una funzione](examples/tests-to-implementation)
+[Data una serie di test generare una funzione](examples/test-to-implementation)
 
-[Analisi e risposta ad una recensione](examples/reply-product-preview)
+[Analisi e risposta ad una recensione](examples/reply-product-review/review.md)
 
-[Preparazione talk](examples/talk/)
+[Preparazione talk](examples/talk/talk.md)
