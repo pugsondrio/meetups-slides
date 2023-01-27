@@ -1,4 +1,4 @@
-# Data a ChatGPT una review presa a caso da Amazon.
+# Data a ChatGPT una review presa a caso da Amazon.
 
 ## Analisi testo
 ![Analisi testo](./screen1.png "Analisi testo")
